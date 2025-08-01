@@ -68,8 +68,10 @@ Prerequisites
 
    npx prisma studio
 
-   Testendpoint : http://localhost:5555 ( This opens up a browser GUI with populated tasks and each time a modification is done it gets updated here )
-    
+   Testendpoint : http://localhost:5555 ( This opens up a browser GUI with populated tasks and each time a modification is done it gets updated here like shown in the below image on testing)
+
+   <img width="1687" height="302" alt="image" src="https://github.com/user-attachments/assets/724ef66e-94ef-4d7d-b895-f1e0169521ae" />
+
 
 
    
