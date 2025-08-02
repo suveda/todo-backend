@@ -73,7 +73,9 @@ Prerequisites
    <img width="1687" height="302" alt="image" src="https://github.com/user-attachments/assets/724ef66e-94ef-4d7d-b895-f1e0169521ae" />
 
 
-   **NOTE** : To see the complete application in action:
+
+**NOTE** : To see the complete application in action:
+
 1. Initialize database with Prisma commands
 2. Start the backend server (`npm run dev`) in one terminal
 3. Start the frontend server (`npm run dev`) in another terminal
