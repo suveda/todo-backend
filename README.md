@@ -73,6 +73,9 @@ Prerequisites
    <img width="1687" height="302" alt="image" src="https://github.com/user-attachments/assets/724ef66e-94ef-4d7d-b895-f1e0169521ae" />
 
 
+   **NOTE** : Run frontend start, backend start and prisma commands together to view correct flow
+
+
 
    
 
