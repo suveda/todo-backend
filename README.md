@@ -41,11 +41,11 @@ Prerequisites
 
 3. Configure the virtual environment by creating a `.env` file in the root directory and populating your sql username and password in the URL:
 
-   DATABASE_URL="mysql://[username]:[password]@localhost:3306/todo_db"
+   `DATABASE_URL="mysql://[username]:[password]@localhost:3306/todo_db"
 
    PORT=8000
 
-   NODE_ENV=development
+   NODE_ENV=development`
 
 4. Initialize database with Prisma
 
